@@ -1,7 +1,7 @@
 - 👋 Hi, I’m DEEPANKUMAR MS
-- 👀 I’m interested in Learing new things
-- 🌱 I’m currently developing my programming skills
-- 💞️ I’m looking to collaborate on some proffessional works or projects based on programming
+- 👀 Interested in Learing new things
+- 🌱 Currently developing my programming skills
+- 💞️ Looking to collaborate on some proffessional works or projects based on programming
 - 📫 contact me through an mail ID: deepankumar123450@gmail.com
 
 <!---
